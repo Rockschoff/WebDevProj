@@ -1,2 +1,0 @@
-# Tuckin
- Web-dev-intern
